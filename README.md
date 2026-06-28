@@ -470,15 +470,11 @@ Every attack radio runs at max.
 
 This project exists because of the people who use it, break it, and tell me what to build next.
 
-**Duggie** ([@duggie162-cpu](https://github.com/duggie162-cpu))
-- Radio Test upgrade source code (NRF24 spectrum scan, CC1101 signal detection, GPS test)
-- RFID module recommendation
-
 **@CircuitZ** — IoT Recon idea
 
 **@ValleytechSolutions** — Jam Detect concept
 
-**@duggie162-cpu, @ValleytechSolutions, @TalkingSasquach, @Notorious-Squirrel, @Man-In-The-Mayhem, @hamspiced** — The efforts and ideas that created the OPSEC of the HaleHound
+**@ValleytechSolutions, @TalkingSasquach, @Notorious-Squirrel, @Man-In-The-Mayhem, @hamspiced** — The efforts and ideas that created the OPSEC of the HaleHound
 
 ---
 
